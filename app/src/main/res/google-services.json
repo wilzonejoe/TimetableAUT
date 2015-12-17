@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "timetableaut-1157",
+    "project_number": "322302209814",
+    "name": "TimetableAUT"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322302209814:android:6344b0c523f225d3",
+        "client_id": "android:com.autstudent.timetableaut",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.autstudent.timetableaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322302209814-hoh1rea7ooc06f15lq0qrab18srbbmom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autstudent.timetableaut",
+            "certificate_hash": "C365CCDBC62F49663FBFF33935F6059F9A450A20"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
